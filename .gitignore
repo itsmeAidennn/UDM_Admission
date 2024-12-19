@@ -1,0 +1,39 @@
+# Ignore Node.js dependencies for both front-end and back-end
+front-end/udm-admission/node_modules/
+back-end/udm-admission/node_modules/
+
+# Ignore build directories for React and Express
+front-end/udm-admission/build/
+back-end/udm-admission/dist/
+
+# Ignore environment files
+front-end/udm-admission/.env
+back-end/udm-admission/.env
+
+# Logs
+front-end/udm-admission/logs/
+back-end/udm-admission/logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor specific files
+.vscode/
+.idea/
+*.swp
+
+# Ignore npm cache files
+.npm/
+
+# Ignore coverage outputs
+front-end/udm-admission/coverage/
+back-end/udm-admission/coverage/
+
+# Ignore temporary files
+*.tmp
+*.temp

@@ -1,0 +1,27 @@
+EAC SHS REPORT CARD (FORM 138)
+
+["Last Name", "First Name", "Middle Name", "LRN", "Age", "Gender", "Track", "Strand", "School Year", "Grade Level", "Section", "Adviser Signature over Printed Name", "Principal"]
+
+BRGY CERTIFICATE:
+
+["First Name", " Middle Initial", "Last Name", "BRGY NO.", "ZONE NO.", "DISTRICT NO.", "ADDRESS", "DATE ISSUANCE", "CHAIRMAN"]
+
+PSA 
+
+["Province", "City/Municipality", "Registry No.", "Childs First Name", "Middle Name", "Last Name", "Sex", "Date of Birth", "Place of Birth", "Barangay", "City/Municipality", "Province", "Type of Birth", "Birth Order", "Weight at Birth", "Mothers Maiden Name", "First", "Middle Name", "Last", "Citizenship", "Religion", "Total Number of children born alive:", "No. of children still living including this birth:", "No. of children born alive but are now dead:", "Occupation", "Age at this time of this birth: years", "Address", "Barangay", "City/Municipality", "Province", "Fathers First Name", "Middle Name", "Last", "Citizenship", "Religion", "Occupation", "Age", "MARRIAGE OF PARENTS "Place", "Date", if not married, accomplish Affidavit of Acknowledgement/Admission of Paternity at back., "ATTENDANT", Physician, Nurse, Midwife, Hilot(Traditional Midwife), Others(Specify)", "Certification of Birth", "Informant", "Prepared By", "Received At the office of the civil registrar"]
+
+PSA:
+
+["Province", " City/Municipality", "Registry no.", " First Name", " Middle Name", "Last Name", " Sex", "Date of Birth", "Place of Birth", " Type of Birth", "If multiple birth, child was", " Birth order", "Weight at birth", "Maiden Name, "First Name", " Middle Initial", "Last Name", " Citizenship", "Religion", " Total number of children born alive", "No. of children still living including this birth", " No. of children born alive but now dead", "Occupation", " Age at the time of this birth", "Residence", "Father", " First Name", " Middle Name", "Last Name", " Citizenship", "Religion", " Occupation", "Age at the time of this birth", " Date and Place of Marriage of Parents", "Attendant", " Certification of Birth", "Signature", "Name", "Address", "Title of Position", "Date", "Informant", "Signature", "Name", "Address", "Title of Position", "Date", "Prepared by", "Signature", "Name", "Title of Position", "Date", "Received at the office of the Civil Registrar Signature", "Name", "Title of Position", "Date"]
+
+VOTER'S ID:
+
+["VIN", "Last Name", "Given Name", "Middle Name", "Date of Birth", "Civil Status", "Citizenship", "Address", "Precint no."]
+
+COMELEC VOTER'S CERTIFICATE:
+
+["Last Name", "Given Name", "Middle Name", "Date of Birth", "Place of Birth", "Gender", "Civil Status", "Citizenship", "Address", "Date of Registration", "Barangay", "Precint no.", "VIN"]
+
+BRGY INDIGENCY:
+
+["First Name", " Middle Initial", "Last Name", "Age", "Address", "Brgy. Address", " Zone no.", "District no.", "Date Issuance", "Chairman"]
